@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mytitle</title>
+    <link>http://hwangjjung.github.io/</link>
+    <description>Recent content on mytitle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hwangjjung</copyright>
+    <lastBuildDate>Fri, 04 Mar 2016 21:15:17 +0900</lastBuildDate>
+    <atom:link href="http://hwangjjung.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello</title>
+      <link>http://hwangjjung.github.io/2016/03/04/hello/</link>
+      <pubDate>Fri, 04 Mar 2016 21:15:17 +0900</pubDate>
+      
+      <guid>http://hwangjjung.github.io/2016/03/04/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://hwangjjung.github.io/about/</link>
+      <pubDate>Fri, 04 Mar 2016 20:31:17 +0900</pubDate>
+      
+      <guid>http://hwangjjung.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
